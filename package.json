@@ -1,5 +1,8 @@
 {
-  "name": "my-component-library",
+  "name": "@varshabu/react-component-library",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/varshabu"
+  },
   "version": "1.0.0",
   "description": "My custom component library",
   "main": "dist/cjs/index.js",
